@@ -30,7 +30,7 @@ int main() {
 	//cout << bitset<4>(c ^ d) << endl;
 	//cout << (c ^ d) << endl;
 
-	// shifting
+	// shifting !!
 	int e = 0b0001;
 	cout << bitset<4>(e << 3) << endl;
 
